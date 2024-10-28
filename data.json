@@ -7,7 +7,7 @@
 	"energy_cap_max" : 5000,
 	"refLinkOnly" : "false",
 	"spin_manual" : "false",
-	"only_spin" : "false",
+	"only_spin" : "true",
 	"ytb_video_list_export" : "false",
 	"watch_ytb_video_view_count_max" : 100,
 	"watch_ytb_video_view_count_reset" : 5,
